@@ -1,0 +1,1 @@
+telethon==1.23.0  # Use the version you're using
